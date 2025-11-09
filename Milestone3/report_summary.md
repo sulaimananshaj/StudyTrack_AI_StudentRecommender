@@ -79,8 +79,9 @@ File: visualizations/recommendation_countplot.png
 
 The count plot below displays the distribution of students across each recommendation type.
 
-Recommendation Type	Example Insight
-Maintain Performance	Top performers need continued consistency
-Optimize Techniques	Many students study long hours but need efficient methods
-Improve Consistency	Some students are irregular and need time discipline
-Strengthen Foundations	A small group needs extra support to improve basics
+Recommendation Type:	Example Insight
+
+(*)Maintain Performance:	Top performers need continued consistency
+(*)Optimize Techniques:	Many students study long hours but need efficient methods
+(*)Improve Consistency:	Some students are irregular and need time discipline
+(*)Strengthen Foundations:	A small group needs extra support to improve basics
